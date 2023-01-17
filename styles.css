@@ -1,0 +1,38 @@
+body{
+    background-color: #D5E1EF;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 15rem;
+}
+
+.qr-image{
+    border-radius: 1rem;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.size-md{
+    height: 15rem;
+    width: 15rem;
+}
+
+.muted{
+    color: gray;
+}
